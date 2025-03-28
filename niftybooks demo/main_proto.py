@@ -11,7 +11,7 @@ from typing import List
 
 # Set OpenRouter API configuration
 os.environ['OPENAI_BASE_URL'] = 'https://openrouter.ai/api/v1'
-os.environ['OPENAI_API_KEY'] = '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'
+os.environ['OPENAI_API_KEY'] = 'APIKEY'
 os.environ['OPENAI_MODEL_NAME'] = 'deepseek/deepseek-chat-v3-0324:free'
 
 # Load YAML configurations

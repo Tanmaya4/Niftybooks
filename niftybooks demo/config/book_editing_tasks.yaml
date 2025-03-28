@@ -1,0 +1,7 @@
+grammar_check:
+  description: "Perform a thorough grammar and spelling check on all chapters."
+  expected_output: "Corrected chapter texts."
+
+style_consistency:
+  description: "Ensure tone and style consistency across the book."
+  expected_output: "A fully edited book with notes on changes." 

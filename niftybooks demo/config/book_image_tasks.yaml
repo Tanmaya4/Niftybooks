@@ -1,0 +1,3 @@
+generate_chapter_images:
+  description: "Generate an image for each chapter based on its title and content."
+  expected_output: "A JSON object with chapter title and image URL."

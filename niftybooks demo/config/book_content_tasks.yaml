@@ -1,0 +1,11 @@
+generate_outline:
+  description: "Generate a detailed book outline including title, chapters, genre, and audience."
+  expected_output: "A structured outline in JSON format."
+
+research_content:
+  description: "Research content relevant to the book outline."
+  expected_output: "A summary of research findings for each chapter."
+
+write_chapters:
+  description: "Write full chapter content based on the outline and research."
+  expected_output: "Complete chapter texts with specified tone and word count." 

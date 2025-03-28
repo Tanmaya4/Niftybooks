@@ -82,4 +82,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Your Name - dhtanmaya@gmail.com
 
-Project Link: [https://github.com/yourusername/agentic-agents](https://github.com/yourusername/agentic-agents)
+Project Link: [https://github.com/Tanmaya4/agentic-agents](https://github.com/Tanmaya4/agentic-agents)
